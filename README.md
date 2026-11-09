@@ -22,6 +22,12 @@ The agent runs the command for you.
 opencode plugin add opencode-plugin-voice
 ```
 
+Until the npm release is available, install straight from GitHub:
+
+```bash
+opencode plugin add github:AlineNakamura00/opencode-plugin-voice
+```
+
 Then open **Settings → Voice**, pick a voice (e.g. `pt-BR-FranciscaNeural`) and
 press **Play sample**.
 
